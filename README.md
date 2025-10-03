@@ -1,4 +1,4 @@
-tis is my first project of web development and i have created an
+this is my first project of web development and i have created an
 Art Gallery Website
 📖 Project Overview
 
